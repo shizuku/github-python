@@ -1,0 +1,25 @@
+{
+  "name": "tensorflow",
+  "url": "https://github.com/tensorflow/tensorflow",
+  "star": "160k",
+  "fork": "85.6k",
+  "about": "An Open Source Machine Learning Framework for Everyone",
+  "readme": "#readme",
+  "topic": ["python", "machine-learning", "deep-neural-networks", "deep-learning", "neural-network", "tensorflow", "ml", "distributed"],
+  "release": "145",
+  "contributors": "145",
+  "languages": {
+    "C++": "61.8%",
+    "Python": "25.2%",
+    "MLIR": "3.7%",
+    "Starlark": "3.0%",
+    "HTML": "2.7%",
+    "Go": "1.1%"
+  },
+  "branch": "43",
+  "issues_open": "2,903 Open",
+  "issues_closed": "30,117 Closed",
+  "pull_requests_open": "176 Open",
+  "pull_requests_closed": "18,712 Closed",
+  "dependency": ["/keras-team/keras-applications", "/keras-team/keras-preprocessing", "/abseil/abseil-py", "/simonpercivall/astunparse", "/google/flatbuffers", "/serge-sans-paille/gast", "/google/pasta", "/h5py/h5py", "/dmlc/keras", "/keras-team/keras-preprocessing", "/sighingnow/libclang", "/numpy/numpy", "/dgasmith/opt_einsum", "/protocolbuffers/protobuf", "/benjaminp/six", "/tensorflow/tensorboard", "/tensorflow/io", "/hfeeki/termcolor", "/python/typing", "/Cristie/wheel", "/GrahamDumpleton/wrapt", "/abseil/abseil-py", "/simonpercivall/astunparse", "/google/flatbuffers", "/serge-sans-paille/gast", "/google/pasta", "/grpc/grpc", "/h5py/h5py", "/keras-team/keras-preprocessing", "/numpy/numpy", "/dgasmith/opt_einsum", "/protocolbuffers/protobuf", "/scipy/scipy", "/benjaminp/six", "/tensorflow/tensorboard", "/hfeeki/termcolor", "/python/typing", "/Cristie/wheel", "/certifi/python-certifi", "/google/jax", "/google/jax", "/google/jax", "/google/jax", "/yaml/pyyaml", "/googleapis/google-api-python-client", "/googleapis/oauth2client"]
+}
